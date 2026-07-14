@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Jidnesh%20Salve&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20Data%20Science%20%7C%20MIS%20Executive%20%7C%20Business%20Analyst&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="jdphoto.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;border:3px solid #7dd3fc;" alt="Jidnesh Salve"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=250&section=header&text=Jidnesh%20Salve&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Data%20Analyst%20%7C%20Data%20Science%20%7C%20MIS%20Executive%20%7C%20Business%20Analyst&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/jidnesh21">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+actionable+insights;Building+dashboards+with+Power+BI;Digging+deep+with+SQL;Data+Analyst+%7C+Data+Scientist+%7C+MIS+Executive+%7C+Business+Analyst" alt="Typing SVG" />
